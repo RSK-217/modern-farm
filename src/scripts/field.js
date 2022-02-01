@@ -7,3 +7,4 @@ export const addPlant = (obj) => {
 export const usePlants = () => {
     return growingPlants
 }
+ 
